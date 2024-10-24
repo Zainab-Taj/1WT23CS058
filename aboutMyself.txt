@@ -6,3 +6,6 @@ Section: 'A'
 Branch: CSE
 Year of Admission: 2024-25
 College Name: Ghousia Institute of Technology for Women
+SSLC: Sophia English high school
+PUC: Crescent Composite PU College 
+UG Degree:B.E - Computer Science
